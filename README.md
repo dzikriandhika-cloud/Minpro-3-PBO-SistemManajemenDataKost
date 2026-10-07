@@ -34,6 +34,8 @@ Program dibagi menjadi beberapa package agar lebih terstruktur:
 - Controller
 - Model
 - View
+  
+Pada bagian Model terdapat class yang digunakan untuk mengelola data penghuni, mahasiswa, dan karyawan.
 
   ## Tools
 - Java
@@ -94,5 +96,5 @@ Program berhasil menghapus data penghuni setelah dilakukan konfirmasi.
 
 Program berhasil dihentikan melalui menu keluar dan proses berakhir dengan BUILD SUCCESS.
 
-Pada bagian Model terdapat class yang digunakan untuk mengelola data penghuni, mahasiswa, dan karyawan.
+
 
