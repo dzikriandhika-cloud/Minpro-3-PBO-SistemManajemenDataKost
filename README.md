@@ -96,8 +96,3 @@ Program berhasil dihentikan melalui menu keluar dan proses berakhir dengan BUILD
 
 Pada bagian Model terdapat class yang digunakan untuk mengelola data penghuni, mahasiswa, dan karyawan.
 
-## Tools
-- Java
-- Apache NetBeans
-- Maven
-- GitHub
